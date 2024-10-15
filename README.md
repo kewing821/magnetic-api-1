@@ -80,6 +80,8 @@ The API uses standard HTTP status codes to indicate the success or failure of a 
 
 -   **401 Unauthorized:** Authentication is required.
 
+-   **403 Forbidden:** The server understood the request but refused to process it.
+
 -   **404 Not Found:** The requested resource was not found.
 
 * * * * *
